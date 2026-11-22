@@ -1,52 +1,52 @@
 [
     {
         "id": 1,
-        "joke": "Why was the Star Wars movies released 4, 5, 6, 1, 2, 3?",
+        "setup": "Why was the Star Wars movies released 4, 5, 6, 1, 2, 3?",
         "punchline": "In charge of scheduling, Yoda was."
     },
     {
         "id": 2,
-        "joke": "What genre are national anthems?",
+        "setup": "What genre are national anthems?",
         "punchline": "Country Music"
     },
     {
         "id": 3,
-        "joke": "Where do you take someone who’s been injured in a peak-a-boo accident?",
+        "setup": "Where do you take someone who’s been injured in a peak-a-boo accident?",
         "punchline": "To the I.C.U."
     },
     {
         "id": 4,
-        "joke": "My wife kicked me out because of my terrible Arnold Schwarzenegger impressions, but don't worry.",
+        "setup": "My wife kicked me out because of my terrible Arnold Schwarzenegger impressions, but don't worry.",
         "punchline": "I'll return."
     },
     {
         "id": 5,
-        "joke": "It's a 5 minute walk from my house to the bar, but a 45 minute walk from the bar to my house...",
+        "setup": "It's a 5 minute walk from my house to the bar, but a 45 minute walk from the bar to my house...",
         "punchline": "The difference is staggering"
     },
     {
         "id": 6,
-        "joke": "I told my wife I thought she’d penciled her eyebrows too high.",
+        "setup": "I told my wife I thought she’d penciled her eyebrows too high.",
         "punchline": "She looked surprised"
     },
     {
         "id": 7,
-        "joke": "My girlfriend dumped me, so I stole her wheelchair.",
+        "setup": "My girlfriend dumped me, so I stole her wheelchair.",
         "punchline": "Look who came crawling back"
     },
     {
         "id": 8,
-        "joke": "Why do you never see hippos hiding in trees",
+        "setup": "Why do you never see hippos hiding in trees",
         "punchline": "Because they're very good at it."
     },
     {
         "id": 9,
-        "joke": "I searched a list of ten puns to find one that made me laugh....",
+        "setup": "I searched a list of ten puns to find one that made me laugh....",
         "punchline": "No pun in ten did."
     },
     {
         "id": 10,
-        "joke": "To the person who stole my copy of Microsoft Office, I will find you.",
+        "setup": "To the person who stole my copy of Microsoft Office, I will find you.",
         "punchline": "You have my word"
     }
 ]
